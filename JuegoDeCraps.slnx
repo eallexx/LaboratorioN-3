@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Lab3-problema1/Lab3-problema1/Lab3-problema1.csproj" Id="ad66dcb3-f1e8-475e-895a-92c620d224b3" />
+  <Project Path="../WindowsFormsApp1/WindowsFormsApp1/Lab3-problema3.csproj" Id="46eb1df8-c824-4c4c-99b3-f48e6c4df6f5" />
+  <Project Path="JuegoDeCraps/JuegoDeCraps.csproj" />
+</Solution>
